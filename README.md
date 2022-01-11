@@ -1,7 +1,7 @@
 # CodeHero-Objective
 A simple app that fetch data from marvel API
 
-![Hubusca](https://github.com/ProgramadorLeandroSantos/HUBusca/blob/master/assets/HUBusca.gif)
+![CodeHero](https://github.com/ProgramadorLeandroSantos/CodeHero-Objective/blob/main/src/assets/gifts/codehero.gif)
 #### About the App: Application for android and ios where you can meet all marvel characters from heroes to villains.
 
 ## How to use?
