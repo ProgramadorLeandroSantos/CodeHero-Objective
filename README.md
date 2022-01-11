@@ -13,4 +13,4 @@ A simple app that fetch data from marvel API
 ` para instalar o app no emulador. <br/>
 5 - Escolha a melhor forma de iniciar a aplicação.
 
-###### Tecnologias utilizadas : React Native, SQLite, Typescript e Expo.
+###### Tecnologias utilizadas : React Native, StyledComponents,Typescript, React Hooks, AsyncStorage.
