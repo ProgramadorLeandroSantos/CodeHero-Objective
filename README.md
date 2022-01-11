@@ -2,16 +2,16 @@
 A simple app that fetch data from marvel API
 
 ![Hubusca](https://github.com/ProgramadorLeandroSantos/HUBusca/blob/master/assets/HUBusca.gif)
-#### Sobre o App: Aplicativo para android  e Ios onde você pode conhecer todos os personagens da marvel de herois a vilões.
+#### About the App: Application for android and ios where you can meet all marvel characters from heroes to villains.
 
-## Como Utilizar?
+## How to use?
 
-1 - Clone ou baixe o Projeto para sua máquina.<br/>
-2 - Abra o projeto no Visual Studio code.<br/>
-3 - Execute `npm install` para restaurar a pasta nodemodules e baixar as dependecias <br/>
-4 - Agora, execute ` npx react-native start
-` no diretório do projeto para iniciar o `Metro Bundle` . <br/>
-5 - com o terminal aberto no diretório do projeto e o emulador em execução , Execute `npx react-native run-android
-` para instalar o app no emulador.
+1 - Clone or download the Project to your machine.<br/>
+2 - Open the project in Visual Studio code.<br/>
+3 - Execute `npm install` to restaure nodemodules file and download thedependecies <br/>
+4 - Now, execute ` npx react-native start
+` in the project directory to start the `Metro Bundle` . <br/>
+5 - with the terminal open in the project directory and the emulator running, Execute `npx react-native run-android
+` to install the app on emulador.
 
-###### Tecnologias utilizadas : React Native, StyledComponents,Typescript, React Context Api, AsyncStorage.
+###### Technologies used : React Native, StyledComponents,Typescript, React Context Api, AsyncStorage.
