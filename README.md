@@ -14,4 +14,4 @@ A simple app that fetch data from marvel API
 5 - com o terminal aberto no diretório do projeto e o emulador em execução , Execute `npx react-native run-android
 ` para instalar o app no emulador.
 
-###### Tecnologias utilizadas : React Native, StyledComponents,Typescript, React Hooks, AsyncStorage.
+###### Tecnologias utilizadas : React Native, StyledComponents,Typescript, React Context Api, AsyncStorage.
