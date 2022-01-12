@@ -20,6 +20,8 @@ A simple app that fetch data from marvel API
 * You can search for a character passing the inital caracterers name or his/her full name.
 ### Character card
 * You can see the image,series, name and description of character.
-* On click at the card You can see the description and series of character.
+* On click at the card You can see the description and series of character
+### Setting Button
+* You can see more informations about the app, change the theme and see  my github page.
 
 ###### Technologies used : React Native, StyledComponents,Typescript, React Context Api, AsyncStorage.
