@@ -8,7 +8,7 @@ A simple app that fetch data from marvel API
 
 1 - Clone or download the Project to your machine.<br/>
 2 - Open the project in Visual Studio code.<br/>
-3 - Execute `npm install` to restaure nodemodules file and download thedependecies <br/>
+3 - Execute `npm install` to restaure nodemodules file and download the dependecies <br/>
 4 - Now, execute ` npx react-native start
 ` in the project directory to start the `Metro Bundle` . <br/>
 5 - with the terminal open in the project directory and the emulator running, Execute `npx react-native run-android
