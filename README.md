@@ -17,7 +17,7 @@ A simple app that fetch data from marvel API
 
 ## About the main components
 ### Search Bar
-* You can search for a character passing the inital caracterers name or his/her full name.
+* You can search for a character passing the inital caracters name or his/her full name.
 ### Character card
 * You can see the image,series, name and description of character.
 * On click at the card You can see the description and series of character
