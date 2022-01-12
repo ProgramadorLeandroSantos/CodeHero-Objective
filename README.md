@@ -2,7 +2,7 @@
 A simple app that fetch data from marvel API
 
 ![CodeHero](https://github.com/ProgramadorLeandroSantos/CodeHero-Objective/blob/main/src/assets/gifts/codehero.gif)
-#### About the App: Application for android and ios where you can meet all marvel characters from heroes to villains.
+#### About the App: Application for android and ios where you can meet all marvel characters incluing heroes and villains.
 
 ## How to use?
 
