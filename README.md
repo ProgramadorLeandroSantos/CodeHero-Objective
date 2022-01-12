@@ -14,4 +14,12 @@ A simple app that fetch data from marvel API
 5 - with the terminal open in the project directory and the emulator running, Execute `npx react-native run-android
 ` to install the app on emulador.
 
+
+## About the main components
+### Search Bar
+* You can search for a character passing the inital caracterers name or his/her full name.
+### Character card
+* You can see the image,series, name and description of character.
+* On click at the card You can see the description and series of character.
+
 ###### Technologies used : React Native, StyledComponents,Typescript, React Context Api, AsyncStorage.
